@@ -1,7 +1,7 @@
 # ExcuseME
 
 ## 🛠️ TinkerCad
-👉 [**Veja o protótipo no simulador**]([https://youtu.be/kRLkS1rPJNY](https://www.tinkercad.com/things/3FJRm7cJ1x5-dazzling-hillar?sharecode=Ge8Pj6r84TtRgqdEM5pBliEwgDAp2G2C7n6w2mjOYf0))
+👉 [**Veja o protótipo no simulador**](https://www.tinkercad.com/things/3FJRm7cJ1x5-dazzling-hillar?sharecode=Ge8Pj6r84TtRgqdEM5pBliEwgDAp2G2C7n6w2mjOYf0)
 
 ## 🤖 Protótipo TinkerCad
 ![conceito](./img/proto.png)
